@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of automotive history with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who invented the Model T?",
+      "answers": ["Ford", "Benz", "Tesla"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "When was the first car made?",
+      "answers": ["1886", "1901", "1920"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Which brand introduced the Beetle?",
+      "answers": ["VW", "Ford", "BMW"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which company made the first hybrid?",
+      "answers": ["Toyota", "Ford", "Honda"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where was the first car race?",
+      "answers": ["France", "USA", "UK"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who founded BMW?",
+      "answers": ["Rapp", "Ford", "Benz"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which car was in Back to the Future?",
+      "answers": ["DMC", "Ford", "Chevy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What year was Tesla founded?",
+      "answers": ["2003", "1999", "2010"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which brand is known for the 911?",
+      "answers": ["Porsche", "Audi", "BMW"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where was the first Ford factory?",
+      "answers": ["Detroit", "NYC", "Chicago"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which brand made the Miata?",
+      "answers": ["Mazda", "Honda", "Nissan"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What car was Knight Rider?",
+      "answers": ["TransAm", "Mustang", "Camaro"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which brand made the first V8?",
+      "answers": ["Cadillac", "Ford", "Chevy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who invented the Wankel engine?",
+      "answers": ["Wankel", "Ford", "Honda"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which brand made the Impala?",
+      "answers": ["Chevy", "Ford", "Dodge"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who made the first car?",
+      "answers": ["Benz", "Ford", "Tesla"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which brand has a lion logo?",
+      "answers": ["Peugeot", "Renault", "Fiat"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who made the Mini?",
+      "answers": ["Austin", "BMW", "Ford"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which car was the General Lee?",
+      "answers": ["Dodge", "Ford", "Chevy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which brand made the Bronco?",
+      "answers": ["Ford", "GMC", "Jeep"],
       "correctAnswerIndex": 0
     }
   ]
